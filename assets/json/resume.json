@@ -202,39 +202,19 @@
       "name": "Programming",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "Bash",
-        "C/C++",
-        "LaTeX",
-        "Java",
-        "SQL",
-        "JavaScript",
-        "HTML/CSS"
-      ]
+      "keywords": ["Python", "Bash", "C/C++", "LaTeX", "Java", "SQL", "JavaScript", "HTML/CSS"]
     },
     {
       "name": "Frameworks",
       "level": "Advanced",
       "icon": "fa-solid fa-layer-group",
-      "keywords": [
-        "PyTorch",
-        "Scikit-learn",
-        "LangChain",
-        "LangGraph"
-      ]
+      "keywords": ["PyTorch", "Scikit-learn", "LangChain", "LangGraph"]
     },
     {
       "name": "Developer Tools",
       "level": "Advanced",
       "icon": "fa-solid fa-tools",
-      "keywords": [
-        "Git",
-        "Linux",
-        "Docker",
-        "PostgreSQL",
-        "Redis"
-      ]
+      "keywords": ["Git", "Linux", "Docker", "PostgreSQL", "Redis"]
     }
   ],
   "languages": [

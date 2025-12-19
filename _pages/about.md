@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: AI Engineer & Researcher
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>AI Innovation Center (AI1)</p>
+    <p>FPT Software</p>
+    <p>Hanoi, Vietnam</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an AI Engineer at [FPT Software](https://www.fpt-software.com/)'s AI Innovation Center (AI1), where I develop and maintain multi-agent systems using orchestration frameworks for building long-running and stateful agents. I specialize in backend integration with automated workflows for scalable AI systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I was an AI Research Resident at [FPT Software](https://www.fpt-software.com/)'s AI Innovation Center (AI1) (Aug 2023 - Jul 2025), where I investigated multimodal generative AI for diverse applications, including text-to-image and LLM-based recommender systems. During this time, I resolved ambiguous search queries on an e-commerce site by proposing a hybrid ranking method that combines semantic and full-text search. My research has been published in top-tier venues including **EMNLP 2024** and **WACV 2026**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I also served as a Research Assistant at the [Center for Environmental Intelligence (CEI)](https://vinuni.edu.vn/research/center-for-environmental-intelligence-cei/) at VinUniversity (Apr 2024 - Jul 2025), where I developed methods to automate material discovery using AI and high-throughput robotics, resulting in publications in two Q1 journals (**Nature Synthesis** with IF 20.0 and **Journal of Science: Advanced Materials and Devices** with IF 6.8).
+
+I graduated as **Salutatorian** (ranked 2nd/153) from the Computer Science Department at VNU University of Engineering and Technology with a GPA of 3.86/4.0.
+
+My research interests lie at the intersection of **multi-agent systems**, **multimodal generative AI**, **large language models**, and **AI for scientific discovery**. I am particularly passionate about building intelligent systems that can solve real-world problems in domains ranging from e-commerce to materials science.
+
+Throughout my career, I have been honored with several prestigious awards, including the "Student with Five Good Merits" Certificate at the Central Level (awarded to only 85 students nationwide), First Prize in the AI4VN Challenge 2022, and recognition as a National Outstanding Female Student in Science and Technology 2021.
