@@ -4,7 +4,7 @@ Previously, I was an AI Research Resident at [FPT Software](https://www.fpt-soft
 
 I also served as a Research Assistant at the [Center for Environmental Intelligence (CEI)](https://vinuni.edu.vn/research/center-for-environmental-intelligence-cei/) at VinUniversity (Apr 2024 - Jul 2025), where I developed methods to automate material discovery using AI and high-throughput robotics, resulting in publications in two Q1 journals (**Nature Synthesis** with IF 20.0 and **Journal of Science: Advanced Materials and Devices** with IF 6.8).
 
-I graduated as **Salutatorian** (ranked 2nd/153) from the Computer Science Department at VNU University of Engineering and Technology with a GPA of 3.86/4.0. 
+I graduated as **Salutatorian** (ranked 2nd/153) from the Computer Science Department at VNU University of Engineering and Technology with a GPA of 3.86/4.0.
 
 My research interests lie at the intersection of **multi-agent systems**, **multimodal generative AI**, **large language models**, and **AI for scientific discovery**. I am particularly passionate about building intelligent systems that can solve real-world problems in domains ranging from e-commerce to materials science.
 
