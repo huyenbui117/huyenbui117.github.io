@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-about-me",
+    title: "About Me",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-resume",
-          title: "resume",
+          title: "Resume",
           description: "My academic and professional journey in AI research and engineering, with a focus on multi-agent systems, multimodal generative AI, and scientific discovery.",
           section: "Navigation",
           handler: () => {
