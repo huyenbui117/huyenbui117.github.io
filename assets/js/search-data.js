@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-awards-amp-scholarships",
+          title: "Awards &amp; Scholarships",
+          description: "Recognition and achievements throughout my academic and professional journey.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/awards/";
+          },
         },{id: "nav-resume",
           title: "Resume",
           description: "My academic and professional journey in AI research and engineering, with a focus on multi-agent systems, multimodal generative AI, and scientific discovery.",
