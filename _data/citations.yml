@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-26'
+  last_updated: '2026-01-21'
 papers:
   _jR86JwAAAAJ:9yKSN-GCB0IC:
     citations: 10
@@ -10,7 +10,7 @@ papers:
     title: Algorithmic iterative reticular synthesis of zeolitic imidazolate framework crystals
     year: '2025'
   _jR86JwAAAAJ:UeHWp8X0CEIC:
-    citations: 0
+    citations: 3
     title: Detecting Out-of-Distribution Objects through Class-Conditioned Inpainting
     year: '2024'
   _jR86JwAAAAJ:d1gkVwhDpl0C:
@@ -20,8 +20,4 @@ papers:
   _jR86JwAAAAJ:u5HHmVD_uO8C:
     citations: 4
     title: 'Experience as source for anticipation and planning: Experiential policy learning for target-driven recommendation dialogues'
-    year: '2024'
-  _jR86JwAAAAJ:zYLM7Y9cAGgC:
-    citations: 3
-    title: Zero-shot object-level ood detection with context-aware inpainting
     year: '2024'
