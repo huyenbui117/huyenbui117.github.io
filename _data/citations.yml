@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-20'
 papers:
   _jR86JwAAAAJ:9yKSN-GCB0IC:
     citations: 16
     title: Finding environmental-friendly chemical synthesis with AI and high-throughput robotics
     year: '2025'
   _jR86JwAAAAJ:IjCSPb-OGe4C:
-    citations: 7
+    citations: 9
     title: Algorithmic iterative reticular synthesis of zeolitic imidazolate framework crystals
     year: '2026'
   _jR86JwAAAAJ:UeHWp8X0CEIC:
@@ -18,6 +18,6 @@ papers:
     title: Aspect-based sentiment analysis using mini-window locating attention for vietnamese e-commerce reviews
     year: '2021'
   _jR86JwAAAAJ:u5HHmVD_uO8C:
-    citations: 7
+    citations: 8
     title: 'Experience as source for anticipation and planning: Experiential policy learning for target-driven recommendation dialogues'
     year: '2024'
